@@ -1,0 +1,11 @@
+{
+  "contactos": [
+    {
+      "id": "1",
+      "nombre": "Carlos Vera",
+      "telefono": "0987654321",
+      "email": "carlos@example.com",
+      "idCategoria": "1"
+    }
+  ]
+}

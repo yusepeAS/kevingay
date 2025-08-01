@@ -1,0 +1,7 @@
+{
+  "categorias": [
+    { "id": "1", "nombre": "Familia" },
+    { "id": "2", "nombre": "Amigos" },
+    { "id": "3", "nombre": "Trabajo" }
+  ]
+}
